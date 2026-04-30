@@ -52,4 +52,4 @@ AfriSenti Twitter sentiment dataset:
 
 ---
 
-*Submitted for Kujenga ML Program — 2025*
+*Adetokunbo Blessing — 2026*
